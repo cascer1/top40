@@ -1,0 +1,12 @@
+{
+    "name": "cascer1/top40",
+    "type": "project",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Cas Eliëns",
+            "email": "cas.eliens@gmail.com"
+        }
+    ],
+    "require": {}
+}
